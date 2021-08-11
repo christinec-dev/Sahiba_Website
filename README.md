@@ -1,2 +1,2 @@
 # SahibaWebsite
-Non-Profit Organization Website.
+Non-Profit Oxganization Website.
